@@ -4,7 +4,7 @@ A React-based product comparison tool that allows users to view, compare, and an
 
 ## Demo
 
-Watch our [demo video](./demo.mp4) to see how the application works! The video demonstrates:
+Download our [demo video](https://github.com/haydaralrikabi/products-comparison/raw/refs/heads/main/demo.mp4) to see how the application works! The video demonstrates:
 
 - How to select products for comparison
 - Using the sorting features
