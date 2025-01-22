@@ -1,6 +1,6 @@
-# Product Comparison App
+# Products Comparison App
 
-A React-based product comparison tool that allows users to view, compare, and analyze products with features like lazy loading, responsive design, and optimised performance.
+A React-based product comparison tool that allows users to view, compare, and analyse products with features like lazy loading, responsive design, and optimised performance.
 
 ## Demo
 
